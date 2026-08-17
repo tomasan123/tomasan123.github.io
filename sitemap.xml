@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mayonblog.com/2026/06/18/chokyu-kyokugen-1/</loc>
+    <loc>https://mayonblog.com/404.html</loc>
     
     <lastmod>2026-08-17</lastmod>
     
@@ -11,9 +11,18 @@
   </url>
   
   <url>
-    <loc>https://mayonblog.com/2026/04/23/hexo-test/</loc>
+    <loc>https://mayonblog.com/404/index.html</loc>
     
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayonblog.com/2026/06/18/chokyu-kyokugen-1/</loc>
+    
+    <lastmod>2026-08-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -72,13 +81,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://mayonblog.com/tags/test-tags/</loc>
-    <lastmod>2026-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://mayonblog.com/tags/VALORANT/</loc>
@@ -144,13 +146,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://mayonblog.com/categories/test-category/</loc>
-    <lastmod>2026-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://mayonblog.com/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</loc>
